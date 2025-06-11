@@ -1,6 +1,6 @@
 # Hello Kitty Matrix Transformations 
 
-A Linear Algebra project
+A Linear Algebra Project
 
 ## Group Task
 Apply the following transformations to a cartoon plotted using Python:
@@ -11,11 +11,11 @@ Apply the following transformations to a cartoon plotted using Python:
 We recreated Hello Kitty using coordinate-based drawing (no image uploads), plotted on a coordinate system using `matplotlib`.
 
 ##  Files
-- `hello_kitty_group6_final.py`: Full source code with transformations
-- `hello_kitty_group6_output.pdf`: Output showing original and transformed Hello Kitty on coordinate plane
+- `Linear-Algebra-Project.py`: Full source code with transformations
+- `Linear-Algebra-Project.pdf`: Output showing original and transformed Hello Kitty on the coordinate plane
 - `README.md`: You're reading it!
 
 ##  How to Run
 ```bash
 pip install matplotlib numpy
-python hello_kitty_group6_final.py
+Linear-Algebra-Project.py
